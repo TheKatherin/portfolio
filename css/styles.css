@@ -1,4 +1,4 @@
-.backcolor-gradient {
+.bc-gradient {
   background-image: linear-gradient(to right, #720e9e 0, #dd4b39 100%);
 }
 
@@ -8,4 +8,20 @@
 
 .no-bottom-margin {
   margin-bottom: 0;
+}
+
+.big-icon {
+    font-size: 15px;
+}
+
+.aligne-center {
+  justify-content: center;
+}
+
+.link-color span {
+  color: #fff;
+}
+
+.shadow-text {
+  color: rgba(255, 255, 255, 0.5);
 }
